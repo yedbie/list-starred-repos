@@ -1,6 +1,9 @@
-[abiosoft/ishell: github.com/abiosoft/ishell,](https://github.com/abiosoft/ishell)
-[Code-Hex/vz: github.com/Code-Hex/vz,](https://github.com/Code-Hex/vz)
-[lima-vm/lima: github.com/lima-vm/lima,](https://github.com/lima-vm/lima)
+[abiosoft/ishell](https://github.com/abiosoft/ishell)
+
+[Code-Hex/vz](https://github.com/Code-Hex/vz)
+
+[lima-vm/lima](https://github.com/lima-vm/lima)
+
 [abiosoft/colima: github.com/abiosoft/colima,](https://github.com/abiosoft/colima)
 [oxfemale/PENTESTING-BIBLE: github.com/oxfemale/PENTESTING-BIBLE,](https://github.com/oxfemale/PENTESTING-BIBLE)
 [spatial-go/geoos: github.com/spatial-go/geoos,](https://github.com/spatial-go/geoos)
