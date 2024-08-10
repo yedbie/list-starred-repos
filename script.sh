@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pull_stars(){
+  
 if [ "$#" -eq 1 ]; then
   TOKEN="$1"
 else
@@ -37,6 +39,8 @@ handle_error() {
     exit 1
   fi
 }
+
+
 echo "" > $OUTPUT_FILE
 
 while true; do
@@ -60,3 +64,4 @@ while true; do
 done
 
 rm -f response.json
+}
