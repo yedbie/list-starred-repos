@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pull_stars(){
+
   
 if [ "$#" -eq 1 ]; then
   TOKEN="$1"
@@ -64,4 +64,3 @@ while true; do
 done
 
 rm -f response.json
-}
